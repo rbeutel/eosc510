@@ -1,0 +1,34 @@
+# conda environment description file for Becca's atmos forcing
+# downscaling project
+#
+# To create and environment from this file:
+#    $ conda env create -f environment.yaml
+# To activate that env:
+#    $ conda activate eosc510
+# To deactivate the env:
+#    (eosc510)$ deactivate
+# To add a new package to the env, add it to the dependencies list
+# below, then:
+#    (eosc510)$ conda env update -f environment.yaml
+# Choose a good name for your env!  Then replace env-name below with it
+name: eosc510
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - arrow
+  - bottleneck
+  - cmocean
+  - jupyterlab
+  - matplotlib
+  - netCDF4
+  - numpy
+  - pandas
+  - pip
+  - python=3
+  - pytz
+  - scipy
+  - xarray
+  - scikit-learn
+  - dask
+  - pyproj
