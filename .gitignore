@@ -141,3 +141,6 @@ cython_debug/
 uas_NAM-22_CCCma-CanESM2_rcp45_r1i1p1_CCCma-CanRCM4_r2_day_20160101-20201231.nc
 vas_NAM-22_CCCma-CanESM2_rcp45_r1i1p1_CCCma-CanRCM4_r2_day_20160101-20201231.nc
 psl_NAM-22_CCCma-CanESM2_rcp45_r1i1p1_CCCma-CanRCM4_r2_day_20160101-20201231.nc
+
+#large netCDF files created using LoadFiles notebook
+hrdps_day_avgs_postSep2014.nc
