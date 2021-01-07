@@ -139,8 +139,39 @@ cython_debug/
 
 # large files for CanRCM4 model
 uas_NAM-22_CCCma-CanESM2_rcp45_r1i1p1_CCCma-CanRCM4_r2_day_20160101-20201231.nc
+uas_NAM-22_CCCma-CanESM2_rcp45_r1i1p1_CCCma-CanRCM4_r2_day_20110101-20151231.nc
 vas_NAM-22_CCCma-CanESM2_rcp45_r1i1p1_CCCma-CanRCM4_r2_day_20160101-20201231.nc
+vas_NAM-22_CCCma-CanESM2_rcp45_r1i1p1_CCCma-CanRCM4_r2_day_20110101-20151231.nc
 psl_NAM-22_CCCma-CanESM2_rcp45_r1i1p1_CCCma-CanRCM4_r2_day_20160101-20201231.nc
+psl_NAM-22_CCCma-CanESM2_rcp45_r1i1p1_CCCma-CanRCM4_r2_day_20110101-20151231.nc
 
 #large netCDF files created using LoadFiles notebook
 hrdps_day_avgs_postSep2014.nc
+
+#small csv files created using PCA notebook
+P_hrdps_PCs.csv
+P_hrdps_eigvecs.csv
+P_hrdps_fracVar.csv
+U_hrdps_PCs.csv
+U_hrdps_eigvecs.csv
+U_hrdps_fracVar.csv
+V_hrdps_PCs.csv
+V_hrdps_eigvecs.csv
+V_hrdps_fracVar.csv
+
+P_RCM_PCs.csv
+P_RCM_eigvecs.csv
+P_RCM_fracVar.csv
+U_RCM_PCs.csv
+U_RCM_eigvecs.csv
+U_RCM_fracVar.csv
+V_RCM_PCs.csv
+V_RCM_eigvecs.csv
+V_RCM_fracVar.csv
+
+RCM_dates.csv
+hrdps_dates.csv
+RCM_lat.csv
+RCM_lon.csv
+hrdps_lat.csv
+hrdps_lon.csv
