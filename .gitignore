@@ -176,4 +176,8 @@ RCM_lon.csv
 hrdps_lat.csv
 hrdps_lon.csv
 
+RCM_Uwinds.csv
+RCM_Vwinds.csv
+
+# Sandheads data
 SH_total_31Dec2020.dat
