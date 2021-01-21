@@ -181,3 +181,6 @@ RCM_Vwinds.csv
 
 # Sandheads data
 SH_total_31Dec2020.dat
+
+#racerocks and sheringham data
+en_climate_hourly_BC*.csv
