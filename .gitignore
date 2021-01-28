@@ -186,3 +186,9 @@ SH_total_31Dec2020.dat
 en_climate_hourly_BC*.csv
 RaceRocks.csv
 Sheringham.csv
+
+#hourly HRDPS analysis
+hrdps_hourly_postSep2014.nc
+
+#honestly there really aren't any csv files we want pushed so..
+*.csv
