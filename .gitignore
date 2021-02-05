@@ -192,3 +192,4 @@ hrdps_hourly_postSep2014.nc
 
 #honestly there really aren't any csv files we want pushed so..
 *.csv
+*.txt
