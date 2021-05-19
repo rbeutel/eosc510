@@ -27,10 +27,18 @@ dependencies:
   - pip
   - python=3
   - pytz
+  - tqdm
   - scipy
+  - windrose
   - xarray
   - scikit-learn
   - dask
   - pyproj
   - pathlib
   - statsmodels
+  
+  - pip:
+#    - salishsea_tools
+    - calendar
+    
+# pip install --user --editable /ocean/rbeutel/MEOPAR/tools/SalishSeaTools
